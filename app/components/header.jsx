@@ -31,7 +31,7 @@ const Header1 = () => {
             height={200}
             className=" w-10 h-10 rounded-full mr-5"
           />      
-            <Link href={"/login"} className=" font-bold">
+            <Link href={"./login"} className=" font-bold">
               Login / Signup
             </Link>
       
